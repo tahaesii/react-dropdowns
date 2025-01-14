@@ -65,7 +65,6 @@ A hierarchical dropdown menu with submenus.
   - **Dropdown2/**: Code for the second dropdown.
   - **Dropdown3/**: Code for the third dropdown.
   - **Dropdown4/**: Code for the fourth dropdown.
-  - **styles.css**: Shared styles for all dropdowns.
   - **assets/**: Includes images and other assets like SVG files and logos.
 
 ## Customization
