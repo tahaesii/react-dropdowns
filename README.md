@@ -82,12 +82,3 @@ Each dropdown component can be customized by editing its corresponding file unde
 ## Contribution
 Feel free to submit issues or create pull requests for any improvements or bugs you encounter. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any questions or support, please contact:
-- **Name**: Aras
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
-
