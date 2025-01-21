@@ -47,7 +47,7 @@ A hierarchical dropdown menu with submenus.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dropdowns-project.git
+   https://github.com/tahaesii/react-dropdowns.git
    cd dropdowns-project
    ```
 2. Install dependencies:
